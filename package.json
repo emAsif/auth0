@@ -35,9 +35,9 @@
     "@nestjs/core": "^6.11.11",
     "@nestjs/passport": "^7.1.0",
     "@nestjs/platform-express": "^7.6.5",
-    "jwks-rsa": "^1.9.0",
+    "jwks-rsa": "^3.0.0",
     "passport": "^0.4.1",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.3"
